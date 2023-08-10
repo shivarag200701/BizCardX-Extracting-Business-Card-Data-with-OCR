@@ -1,10 +1,10 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR
-Bizcard Extraction is a Python application built with Streamlit, EasyOCR, OpenCV, regex function, and MySQL database. It allows users to extract information from business cards and store it in a MySQL database for further analysis. The main purpose of Bizcard is to automate the process of extracting key details from business card images, such as the name, designation, company, contact information, and other relevant data. By leveraging the power of OCR (Optical Character Recognition) provided by EasyOCR, Bizcard is able to extract text from the images.
+Bizcard Extraction is a Python application built with Streamlit, EasyOCR, OpenCV, regex function, and MySQL database. It allows users to extract information from business cards and store it in a MySQL database. The main purpose of Bizcard is to automate the process of extracting key details from business card images, such as the name, designation, company, contact information, and other relevant data. By leveraging the power of OCR (Optical Character Recognition) provided by EasyOCR, Bizcard is able to extract text from the images.
 
-bizcard
+![bizcard](https://github.com/beingbvh/BizcardX/assets/135937352/5f667473-1895-4c8e-af35-ec72ec78100f)
 
-What is EasyOCR?
-EasyOCR, as the name suggests, is a Python package that allows computer vision developers to effortlessly perform Optical Character Recognition.It is a Python library for Optical Character Recognition (OCR) that allows you to easily extract text from images and scanned documents. In my project I am using easyOCR to extract text from business cards.
+## What is EasyOCR?
+EasyOCR, as the name suggests, is a Python package that allows computer vision developers to effortlessly perform Optical Character Recognition. It is a Python library for Optical Character Recognition (OCR) that will enable you to easily extract text from images and scanned documents. In my project, I have used easyOCR to extract text from business cards.
 
 When it comes to OCR, EasyOCR is by far the most straightforward way to apply Optical Character Recognition:
 
