@@ -1,0 +1,10 @@
+easyocr
+matplotlib
+numpy
+pandas
+mysql.connector
+mysql-connector-python
+streamlit_option_menu
+streamlit
+Pillow==9.5.0
+Python-IO
